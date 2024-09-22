@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Nacon Controller REVOLUTION 5 PRO",
+            "price": 359.99,
+            "description": "High-performance gaming controller with customizable buttons."
+        },
+        {
+            "id": 2,
+            "name": "PXN 008 Arcade Fighting Stick",
+            "price": 129.99,
+            "description": "Durable arcade stick for serious fighting game enthusiasts."
+        },
+        {
+            "id": 3,
+            "name": "PXN V3 Pro Gaming Racing Wheel",
+            "price": 159.99,
+            "description": "Pro gaming racing wheel with adjustable sensitivity settings."
+        }
+    ]
+}
