@@ -17,6 +17,12 @@
             "name": "PXN V3 Pro Gaming Racing Wheel",
             "price": 159.99,
             "description": "Pro gaming racing wheel with adjustable sensitivity settings."
+        },
+        {
+            "id": 4,
+            "name": "PXN V4 Pro Gaming Racing Wheel - New",
+            "price": 259.99,
+            "description": "Pro gaming racing wheel with adjustable sensitivity settings."
         }
     ]
 }
